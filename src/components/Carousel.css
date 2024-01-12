@@ -1,1 +1,46 @@
-/* write down the css for Carousel in this file */
+button {
+    display: block;
+}
+
+img {
+    height: 90vh;
+    width: 650px;
+}
+
+.datas {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    position: absolute;
+    font-size: 55px;
+    top: 10vh;
+    background-color: rgb(255, 255, 255);
+    opacity: 70%;
+    padding: 7px;
+    border-radius: 8px;
+}
+
+p {
+    position: absolute;
+    top: 70vh;
+    background-color: aliceblue;
+    opacity: 70%;
+    font-size: 25px;
+    font-weight: 450;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+button {
+    height: 90vh;
+    background-color: black;
+    color: white;
+}
+
+.carousel {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
